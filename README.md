@@ -1,2 +1,2 @@
 # tasker
-Repository for my-app
+Repository for my tasker app
