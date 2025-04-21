@@ -1,8 +1,17 @@
 # Tasker
 
-## Functionality
+Tasker is a productivity application designed to help you manage your tasks efficiently. This application is built using Vite, React, TypeScript, and Tailwind CSS, with components from shadcn/ui.
 
-- **Task creation and management**: Users can create, edit, and delete tasks easily, allowing for effective management of their to-do lists.
-- **User authentication**: Secure login and registration processes ensure that user data is protected and accessible only to authorized individuals.
-- **Task categorization**: Users can categorize tasks into different groups or projects, making it easier to organize and prioritize their workload.
-- **Notifications and reminders**: The application provides notifications and reminders for upcoming tasks, helping users stay on track and meet deadlines.
+## Features
+
+- **User-friendly interface**: Intuitive design for easy navigation.
+- **Task management**: Create, edit, and delete tasks effortlessly.
+- **Responsive design**: Works seamlessly on both desktop and mobile devices.
+- **Dark mode support**: Switch between light and dark themes.
+
+## Getting Started
+
+To get a local copy up and running, follow these steps:
+
+1. **Clone the repository**:
+   
