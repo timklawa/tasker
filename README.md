@@ -1,26 +1,8 @@
 # Tasker
 
-Tasker is a productivity application designed to help you manage your tasks efficiently. Built with Vite, React, TypeScript, and Tailwind CSS, it provides a modern and responsive user interface.
+## Functionality
 
-## Features
-
-- Create, edit, and delete tasks
-- Organize tasks by categories
-- Mark tasks as completed
-- Responsive design for mobile and desktop
-
-## Getting Started
-
-To get a local copy up and running, follow these steps:
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- Node.js (v14 or later)
-- npm (v6 or later)
-
-### Installation
-
-1. Clone the repo
-   
+- **Task creation and management**: Users can create, edit, and delete tasks easily, allowing for effective management of their to-do lists.
+- **User authentication**: Secure login and registration processes ensure that user data is protected and accessible only to authorized individuals.
+- **Task categorization**: Users can categorize tasks into different groups or projects, making it easier to organize and prioritize their workload.
+- **Notifications and reminders**: The application provides notifications and reminders for upcoming tasks, helping users stay on track and meet deadlines.
